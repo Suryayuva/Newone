@@ -8,6 +8,8 @@ public class Sammmm {
 		System.out.println("yuva");
 
 		System.out.println("Abi");
+		System.out.println("hai");
+		System.out.println("hell");
 
 
 }
